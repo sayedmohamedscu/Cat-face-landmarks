@@ -47,4 +47,11 @@ Used [Cat dataset on Kaggle](https://www.kaggle.com/crawford/cat-dataset) for tr
 2-detect the face of the cat
 3-apply landmarks detection
 
+# TODO
+1. Cat face detector
+2. High accurcy landmarks detection
+3. Multy cats detection
+4. cat existence 
 
+# Updates
+1. Now the model able to detect the cats eys correctly 
